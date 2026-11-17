@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1F0A14"/>
+      <stop offset="55%" stop-color="#0C101B"/>
+      <stop offset="100%" stop-color="#2D0C1B"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#bg)"/>
+  <rect x="16" y="16" width="368" height="568" rx="12" fill="none" stroke="#4D192D" stroke-width="2"/>
+  <circle cx="200" cy="215" r="76" fill="none" stroke="#7D0B28" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="200" y="232" text-anchor="middle" fill="#C8234E" font-family="Arial, sans-serif" font-weight="bold" font-size="52">M</text>
+  <text x="200" y="355" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-weight="bold" font-size="22">Аркейн</text>
+  <text x="200" y="388" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-weight="bold" font-size="22"></text>
+  <text x="200" y="430" text-anchor="middle" fill="#8E96A8" font-family="Arial, sans-serif" font-size="14">Arcane</text>
+  <rect x="125" y="475" width="150" height="32" rx="6" fill="#7D0B28"/>
+  <text x="200" y="496" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-weight="bold" font-size="13">Сериал • 2021</text>
+</svg>

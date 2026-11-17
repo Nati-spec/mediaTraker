@@ -1,0 +1,652 @@
+{
+  "media": [
+    {
+      "id": 1,
+      "title": "Во все тяжкие",
+      "originalTitle": "Breaking Bad",
+      "type": "series",
+      "releaseYear": 2008,
+      "duration": 47,
+      "totalEpisodes": 62,
+      "ageRating": "18+",
+      "genres": [
+        "Драма",
+        "Триллер"
+      ],
+      "rating": 9.5,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg",
+      "localPoster": "img/poster-1.svg",
+      "description": "Школьный учитель химии Уолтер Уайт узнает о смертельном диагнозе и начинает производство метамфетамина вместе с бывшим учеником Джесси Пинкманом."
+    },
+    {
+      "id": 2,
+      "title": "Чернобыль",
+      "originalTitle": "Chernobyl",
+      "type": "series",
+      "releaseYear": 2019,
+      "duration": 65,
+      "totalEpisodes": 5,
+      "ageRating": "18+",
+      "genres": [
+        "Драма",
+        "Триллер"
+      ],
+      "rating": 9.4,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/193/482599.jpg",
+      "localPoster": "img/poster-2.svg",
+      "description": "Реконструкция событий апреля 1986 года на Чернобыльской АЭС и героических усилий ликвидаторов катастрофы."
+    },
+    {
+      "id": 3,
+      "title": "Прослушка",
+      "originalTitle": "The Wire",
+      "type": "series",
+      "releaseYear": 2002,
+      "duration": 59,
+      "totalEpisodes": 60,
+      "ageRating": "18+",
+      "genres": [
+        "Драма",
+        "Детектив",
+        "Триллер"
+      ],
+      "rating": 9.3,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/504/1260189.jpg",
+      "localPoster": "img/poster-3.svg",
+      "description": "Подразделение полиции Балтимора использует прослушку и скрытое наблюдение для расследования преступных синдикатов города."
+    },
+    {
+      "id": 4,
+      "title": "Игра престолов",
+      "originalTitle": "Game of Thrones",
+      "type": "series",
+      "releaseYear": 2011,
+      "duration": 57,
+      "totalEpisodes": 73,
+      "ageRating": "18+",
+      "genres": [
+        "Фантастика",
+        "Драма"
+      ],
+      "rating": 9.2,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/190/476117.jpg",
+      "localPoster": "img/poster-4.svg",
+      "description": "Благородные дома Вестероса ведут жестокую борьбу за Железный трон, пока на севере пробуждается древнее зло."
+    },
+    {
+      "id": 5,
+      "title": "Клан Сопрано",
+      "originalTitle": "The Sopranos",
+      "type": "series",
+      "releaseYear": 1999,
+      "duration": 55,
+      "totalEpisodes": 86,
+      "ageRating": "18+",
+      "genres": [
+        "Драма",
+        "Триллер"
+      ],
+      "rating": 9.2,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11341.jpg",
+      "localPoster": "img/poster-5.svg",
+      "description": "Криминальный босс Северного Джерси Тони Сопрано пытается сохранить баланс между требованиями мафиозной семьи и личной жизнью."
+    },
+    {
+      "id": 6,
+      "title": "Шерлок",
+      "originalTitle": "Sherlock",
+      "type": "series",
+      "releaseYear": 2010,
+      "duration": 88,
+      "totalEpisodes": 13,
+      "ageRating": "16+",
+      "genres": [
+        "Детектив",
+        "Драма",
+        "Триллер"
+      ],
+      "rating": 9.1,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/171/428042.jpg",
+      "localPoster": "img/poster-6.svg",
+      "description": "Современная адаптация классических историй Артура Конан Дойла о гениальном сыщике Шерлоке Холмсе и докторе Ватсоне в Лондоне XXI века."
+    },
+    {
+      "id": 7,
+      "title": "Лучше звоните Солу",
+      "originalTitle": "Better Call Saul",
+      "type": "series",
+      "releaseYear": 2015,
+      "duration": 46,
+      "totalEpisodes": 63,
+      "ageRating": "18+",
+      "genres": [
+        "Драма",
+        "Триллер"
+      ],
+      "rating": 9.0,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/501/1253515.jpg",
+      "localPoster": "img/poster-7.svg",
+      "description": "История превращения мелкого адвоката Джимми Макгилла в беспринципного юриста криминального мира Альбукерке Сола Гудмана."
+    },
+    {
+      "id": 8,
+      "title": "Настоящий детектив",
+      "originalTitle": "True Detective",
+      "type": "series",
+      "releaseYear": 2014,
+      "duration": 58,
+      "totalEpisodes": 24,
+      "ageRating": "18+",
+      "genres": [
+        "Детектив",
+        "Драма",
+        "Триллер"
+      ],
+      "rating": 8.9,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/490/1226764.jpg",
+      "localPoster": "img/poster-8.svg",
+      "description": "Детективы Раст Коул и Марти Харт расследуют серию оккультных убийств в Луизиане на протяжении семнадцати лет."
+    },
+    {
+      "id": 9,
+      "title": "Тьма",
+      "originalTitle": "Dark",
+      "type": "series",
+      "releaseYear": 2017,
+      "duration": 53,
+      "totalEpisodes": 26,
+      "ageRating": "18+",
+      "genres": [
+        "Фантастика",
+        "Детектив",
+        "Триллер"
+      ],
+      "rating": 8.8,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/504/1262353.jpg",
+      "localPoster": "img/poster-9.svg",
+      "description": "Исчезновение двух детей в немецком городке Винден раскрывает мрачные тайны четырех семей и запутанную петлю путешествий во времени."
+    },
+    {
+      "id": 10,
+      "title": "Очень странные дела",
+      "originalTitle": "Stranger Things",
+      "type": "series",
+      "releaseYear": 2016,
+      "duration": 51,
+      "totalEpisodes": 34,
+      "ageRating": "16+",
+      "genres": [
+        "Фантастика",
+        "Детектив",
+        "Триллер"
+      ],
+      "rating": 8.7,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/396/991288.jpg",
+      "localPoster": "img/poster-10.svg",
+      "description": "В тихом городке Хоукинс загадочно исчезает мальчик, а его друзья встречают девочку со сверхспособностями и сталкиваются с параллельным миром."
+    },
+    {
+      "id": 11,
+      "title": "Атака титанов",
+      "originalTitle": "Attack on Titan",
+      "type": "series",
+      "releaseYear": 2013,
+      "duration": 24,
+      "totalEpisodes": 87,
+      "ageRating": "18+",
+      "genres": [
+        "Фантастика",
+        "Аниме",
+        "Драма"
+      ],
+      "rating": 9.1,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/485/1214266.jpg",
+      "localPoster": "img/poster-11.svg",
+      "description": "Остатки человечества укрылись за тремя гигантскими стенами от кровожадных титанов, но однажды колоссальный титан пробивает внешнюю стену."
+    },
+    {
+      "id": 12,
+      "title": "Стальной алхимик: Братство",
+      "originalTitle": "Fullmetal Alchemist: Brotherhood",
+      "type": "series",
+      "releaseYear": 2009,
+      "duration": 24,
+      "totalEpisodes": 64,
+      "ageRating": "16+",
+      "genres": [
+        "Аниме",
+        "Фантастика",
+        "Драма"
+      ],
+      "rating": 9.1,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/35/89567.jpg",
+      "localPoster": "img/poster-12.svg",
+      "description": "Братья Элрики путешествуют по стране в поисках философского камня, чтобы восстановить свои тела после запретного алхимического ритуала."
+    },
+    {
+      "id": 13,
+      "title": "Провожающая в последний путь Фрирен",
+      "originalTitle": "Frieren: Beyond Journey's End",
+      "type": "series",
+      "releaseYear": 2023,
+      "duration": 24,
+      "totalEpisodes": 28,
+      "ageRating": "12+",
+      "genres": [
+        "Аниме",
+        "Фантастика",
+        "Драма"
+      ],
+      "rating": 9.1,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/475/1188356.jpg",
+      "localPoster": "img/poster-13.svg",
+      "description": "Эльфийская волшебница Фрирен после победы над Королем демонов отправляется в новое путешествие, чтобы понять ценность человеческой жизни."
+    },
+    {
+      "id": 14,
+      "title": "Аркейн",
+      "originalTitle": "Arcane",
+      "type": "series",
+      "releaseYear": 2021,
+      "duration": 41,
+      "totalEpisodes": 18,
+      "ageRating": "16+",
+      "genres": [
+        "Аниме",
+        "Фантастика",
+        "Драма"
+      ],
+      "rating": 9.0,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/542/1356137.jpg",
+      "localPoster": "img/poster-14.svg",
+      "description": "История двух сестер, оказавшихся по разные стороны баррикад в конфликте между утопическим Пилтовером и угнетенным Зауном."
+    },
+    {
+      "id": 15,
+      "title": "Врата Штейна",
+      "originalTitle": "Steins;Gate",
+      "type": "series",
+      "releaseYear": 2011,
+      "duration": 24,
+      "totalEpisodes": 24,
+      "ageRating": "16+",
+      "genres": [
+        "Аниме",
+        "Фантастика",
+        "Триллер"
+      ],
+      "rating": 9.0,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/36/92241.jpg",
+      "localPoster": "img/poster-15.svg",
+      "description": "Студент-изобретатель случайно превращает микроволновку в машину времени для отправки сообщений в прошлое."
+    },
+    {
+      "id": 16,
+      "title": "Тетрадь смерти",
+      "originalTitle": "Death Note",
+      "type": "series",
+      "releaseYear": 2006,
+      "duration": 23,
+      "totalEpisodes": 37,
+      "ageRating": "18+",
+      "genres": [
+        "Аниме",
+        "Триллер",
+        "Детектив"
+      ],
+      "rating": 8.9,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/498/1245650.jpg",
+      "localPoster": "img/poster-16.svg",
+      "description": "Гениальный школьник Лайт Ягами находит тетрадь бога смерти и решает очистить мир от преступников, бросая вызов детективу L."
+    },
+    {
+      "id": 17,
+      "title": "Ковбой Бибоп",
+      "originalTitle": "Cowboy Bebop",
+      "type": "series",
+      "releaseYear": 1998,
+      "duration": 24,
+      "totalEpisodes": 26,
+      "ageRating": "18+",
+      "genres": [
+        "Аниме",
+        "Фантастика",
+        "Драма"
+      ],
+      "rating": 8.9,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/19/47952.jpg",
+      "localPoster": "img/poster-17.svg",
+      "description": "Команда охотников за головами на космическом корабле «Бибоп» бороздит просторы Солнечной системы."
+    },
+    {
+      "id": 18,
+      "title": "Монстр",
+      "originalTitle": "Monster",
+      "type": "series",
+      "releaseYear": 2004,
+      "duration": 24,
+      "totalEpisodes": 74,
+      "ageRating": "18+",
+      "genres": [
+        "Аниме",
+        "Детектив",
+        "Триллер"
+      ],
+      "rating": 8.7,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/21/54965.jpg",
+      "localPoster": "img/poster-18.svg",
+      "description": "Талантливый нейрохирург Кэндзо Тэмма спасает жизнь мальчику с огнестрельным ранением, не подозревая, что вырастит хладнокровного серийного убийцу."
+    },
+    {
+      "id": 19,
+      "title": "Клинок, рассекающий демонов",
+      "originalTitle": "Demon Slayer",
+      "type": "series",
+      "releaseYear": 2019,
+      "duration": 24,
+      "totalEpisodes": 55,
+      "ageRating": "16+",
+      "genres": [
+        "Аниме",
+        "Драма"
+      ],
+      "rating": 8.6,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/518/1297057.jpg",
+      "localPoster": "img/poster-19.svg",
+      "description": "Юный Тандзиро Камадо становится истребителем демонов, чтобы спасти свою сестру Незуко, обращенную в демона."
+    },
+    {
+      "id": 20,
+      "title": "Токийский гуль",
+      "originalTitle": "Tokyo Ghoul",
+      "type": "series",
+      "releaseYear": 2014,
+      "duration": 24,
+      "totalEpisodes": 48,
+      "ageRating": "18+",
+      "genres": [
+        "Аниме",
+        "Триллер",
+        "Фантастика"
+      ],
+      "rating": 7.8,
+      "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55788.jpg",
+      "localPoster": "img/poster-20.svg",
+      "description": "Студент Кэн Канэки после пересадки органов превращается в полугуля и оказывается на грани войны между людьми и плотоядными существами."
+    },
+    {
+      "id": 21,
+      "title": "Побег из Шоушенка",
+      "originalTitle": "The Shawshank Redemption",
+      "type": "movie",
+      "releaseYear": 1994,
+      "duration": 142,
+      "totalEpisodes": 1,
+      "ageRating": "16+",
+      "genres": [
+        "Драма"
+      ],
+      "rating": 9.3,
+      "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "localPoster": "img/poster-21.svg",
+      "description": "Бухгалтер Энди Дюфрейн обвинён в убийстве собственной жены и её любовника. Оказавшись в тюрьме под названием Шоушенк, он не теряет надежды на свободу."
+    },
+    {
+      "id": 22,
+      "title": "Крестный отец",
+      "originalTitle": "The Godfather",
+      "type": "movie",
+      "releaseYear": 1972,
+      "duration": 175,
+      "totalEpisodes": 1,
+      "ageRating": "16+",
+      "genres": [
+        "Драма",
+        "Триллер"
+      ],
+      "rating": 9.2,
+      "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "localPoster": "img/poster-22.svg",
+      "description": "Криминальная сага, повествующая о нью-йоркской сицилийской мафиозной семье Корлеоне в период 1945–1955 годов."
+    },
+    {
+      "id": 23,
+      "title": "Темный рыцарь",
+      "originalTitle": "The Dark Knight",
+      "type": "movie",
+      "releaseYear": 2008,
+      "duration": 152,
+      "totalEpisodes": 1,
+      "ageRating": "16+",
+      "genres": [
+        "Триллер",
+        "Драма",
+        "Детектив"
+      ],
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "localPoster": "img/poster-23.svg",
+      "description": "Бэтмен, лейтенант Гордон и прокурор Харви Дент вступают в бескомпромиссное противостояние с гением преступного хаоса Джокером."
+    },
+    {
+      "id": 24,
+      "title": "Криминальное чтиво",
+      "originalTitle": "Pulp Fiction",
+      "type": "movie",
+      "releaseYear": 1994,
+      "duration": 154,
+      "totalEpisodes": 1,
+      "ageRating": "18+",
+      "genres": [
+        "Триллер",
+        "Драма"
+      ],
+      "rating": 8.9,
+      "poster": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+      "localPoster": "img/poster-24.svg",
+      "description": "Переплетающиеся криминальные истории двух бандитов Винсента Веги и Джулса Уиннфилда, жены мафиози Мии Уоллес и боксера Бутча Кулиджа."
+    },
+    {
+      "id": 25,
+      "title": "Начало",
+      "originalTitle": "Inception",
+      "type": "movie",
+      "releaseYear": 2010,
+      "duration": 148,
+      "totalEpisodes": 1,
+      "ageRating": "16+",
+      "genres": [
+        "Фантастика",
+        "Триллер",
+        "Детектив"
+      ],
+      "rating": 8.8,
+      "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+      "localPoster": "img/poster-25.svg",
+      "description": "Профессиональный извлекатель секретов из чужих сновидений Дом Кобб берется за невозможную операцию — внедрение новой идеи в подсознание."
+    },
+    {
+      "id": 26,
+      "title": "Бойцовский клуб",
+      "originalTitle": "Fight Club",
+      "type": "movie",
+      "releaseYear": 1999,
+      "duration": 139,
+      "totalEpisodes": 1,
+      "ageRating": "18+",
+      "genres": [
+        "Триллер",
+        "Драма"
+      ],
+      "rating": 8.8,
+      "poster": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "localPoster": "img/poster-26.svg",
+      "description": "Сотрудник страховой компании, страдающий хронической бессонницей, встречает харизматичного торговца мылом Тайлера Дердена и создает подпольный бойцовский клуб."
+    },
+    {
+      "id": 27,
+      "title": "Дюна: Часть вторая",
+      "originalTitle": "Dune: Part Two",
+      "type": "movie",
+      "releaseYear": 2024,
+      "duration": 166,
+      "totalEpisodes": 1,
+      "ageRating": "16+",
+      "genres": [
+        "Фантастика",
+        "Драма"
+      ],
+      "rating": 8.8,
+      "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "localPoster": "img/poster-27.svg",
+      "description": "Пол Атрейдес объединяется с фрименами пустынной планеты Арракис, чтобы отомстить заговорщикам, уничтожившим его семью."
+    },
+    {
+      "id": 28,
+      "title": "Интерстеллар",
+      "originalTitle": "Interstellar",
+      "type": "movie",
+      "releaseYear": 2014,
+      "duration": 169,
+      "totalEpisodes": 1,
+      "ageRating": "16+",
+      "genres": [
+        "Фантастика",
+        "Драма"
+      ],
+      "rating": 8.7,
+      "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "localPoster": "img/poster-28.svg",
+      "description": "Когда засуха и пыльные бури приводят человечество к продовольственному кризису, коллектив исследователей отправляется сквозь червоточину в космосе."
+    },
+    {
+      "id": 29,
+      "title": "Матрица",
+      "originalTitle": "The Matrix",
+      "type": "movie",
+      "releaseYear": 1999,
+      "duration": 136,
+      "totalEpisodes": 1,
+      "ageRating": "16+",
+      "genres": [
+        "Фантастика",
+        "Триллер"
+      ],
+      "rating": 8.7,
+      "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+      "localPoster": "img/poster-29.svg",
+      "description": "Хакер Нео узнает от таинственного Морфеуса, что привычный мир — лишь иллюзия, созданная разумными машинами для порабощения человечества."
+    },
+    {
+      "id": 30,
+      "title": "Унесенные призраками",
+      "originalTitle": "Spirited Away",
+      "type": "movie",
+      "releaseYear": 2001,
+      "duration": 125,
+      "totalEpisodes": 1,
+      "ageRating": "12+",
+      "genres": [
+        "Аниме",
+        "Фантастика"
+      ],
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "localPoster": "img/poster-30.svg",
+      "description": "Десятилетняя Тихиро попадает в таинственный мир духов и древних богов, где ей предстоит спасти своих родителей от колдовства ведьмы Юбабы."
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin_mark",
+      "email": "admin@tracker.ru",
+      "password": "adminpassword",
+      "role": "admin",
+      "mustChangePassword": false,
+      "created_at": "2026-01-10"
+    },
+    {
+      "id": 2,
+      "username": "alex_critic",
+      "email": "alex@example.com",
+      "password": "password123",
+      "role": "user",
+      "mustChangePassword": false,
+      "created_at": "2026-01-12"
+    },
+    {
+      "id": 3,
+      "username": "elena_movie",
+      "email": "elena@example.com",
+      "password": "password123",
+      "role": "user",
+      "mustChangePassword": false,
+      "created_at": "2026-01-15"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "mediaId": 1,
+      "userId": 2,
+      "username": "alex_critic",
+      "score": 9,
+      "title": "Невероятная химия персонажей",
+      "body": "Дуэт Брайана Крэнстона и Аарона Пола вытягивает каждую драматическую сцену. Сценарий прописан до мельчайших деталей без проходных эпизодов.",
+      "hasSpoilers": false,
+      "helpfulUp": 14,
+      "helpfulDown": 1,
+      "date": "15 февраля 2026"
+    },
+    {
+      "id": 2,
+      "mediaId": 1,
+      "userId": 3,
+      "username": "elena_movie",
+      "score": 10,
+      "title": "Идеальный сюжетный твист в финале сезона",
+      "body": "Финальное противостояние Уолтера Уайта и Гуса Фринга в доме престарелых — один из самых напряженных моментов в истории телевидения, когда Гектор Саламанка нажимает на звонок!",
+      "hasSpoilers": false,
+      "helpfulUp": 21,
+      "helpfulDown": 0,
+      "date": "01 марта 2026"
+    },
+    {
+      "id": 3,
+      "mediaId": 11,
+      "userId": 3,
+      "username": "elena_movie",
+      "score": 8,
+      "title": "Неожиданная правда о титанах",
+      "body": "Во втором сезоне выясняется, что Райнер и Бертольт на самом деле и есть Бронированный и Колоссальный титаны, которые разрушили стену Мария.",
+      "hasSpoilers": false,
+      "helpfulUp": 9,
+      "helpfulDown": 4,
+      "date": "10 марта 2026"
+    }
+  ],
+  "complaints": [
+    {
+      "id": 1,
+      "review_id": 2,
+      "media_id": 1,
+      "media_title": "Во все тяжкие (Breaking Bad)",
+      "author_name": "elena_movie",
+      "reason": "Раскрытие ключевого сюжетного поворота финала 4-го сезона без флага спойлера (has_spoilers = false)",
+      "comment_excerpt": "«Финальное противостояние Уолтера Уайта и Гуса Фринга в доме престарелых — один из самых напряженных моментов в истории телевидения, когда Гектор Саламанка нажимает на звонок!»",
+      "created_at": "12 марта 2026, 14:20"
+    },
+    {
+      "id": 2,
+      "review_id": 3,
+      "media_id": 11,
+      "media_title": "Атака титанов (Attack on Titan)",
+      "author_name": "elena_movie",
+      "reason": "Прямое раскрытие личности главных антагонистов без предупреждения для новых зрителей",
+      "comment_excerpt": "«Во втором сезоне выясняется, что Райнер и Бертольт на самом деле и есть Бронированный и Колоссальный титаны, которые разрушили стену Мария.»",
+      "created_at": "14 марта 2026, 18:05"
+    }
+  ],
+  "user_lists": []
+}
